@@ -1,7 +1,9 @@
 Blockchain API
+
 Welcome to the Blockchain API project! This API allows you to monitor and manage the status of various blockchains through their respective RPC endpoints.
 
 Getting Started
+
 Make sure you have the following installed:
 
 Node.js
