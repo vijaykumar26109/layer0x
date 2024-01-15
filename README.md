@@ -1,20 +1,21 @@
-Blockchain API
+*************************Blockchain API*************************
 
 Welcome to the Blockchain API project! This API allows you to monitor and manage the status of various blockchains through their respective RPC endpoints.
 
-Getting Started
+***********************Geeting Started***************************
 
-Make sure you have the following installed:
+# Make sure you have the following installed:
 
 Node.js
 MongoDB
-install dependencies
+
+# install dependencies
 npm install
 
-Start the server
+# Start the server
 npm start
 
-API Endpoints
+# API Endpoints
 
 GET /blockchains: Get a list of all configured blockchains. 
 POST /blockchains: Create a new blockchain. 
