@@ -3,6 +3,10 @@
 Welcome to the Blockchain API project! <br>
 This API allows you to monitor and manage the status of various blockchains through their respective RPC endpoints.
 
+## Live API Status
+
+Check the live status of the API at [API Link](https://blockchains-status.onrender.com/api/status).
+
 ***********************Geeting Started**********************
 
 # Make sure you have the following installed:
