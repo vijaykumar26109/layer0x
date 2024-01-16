@@ -1,5 +1,5 @@
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1kylNE_4rR8&t=12s/0.jpg)](https://www.youtube.com/watch?v=1kylNE_4rR8&t=12s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1kylNE_4rR8/0.jpg)](https://www.youtube.com/watch?v=1kylNE_4rR8)
 
 
 *************************Blockchain API********************
