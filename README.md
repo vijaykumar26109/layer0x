@@ -9,7 +9,7 @@ This API allows you to monitor and manage the status of various blockchains thro
 
 ## Live API Status
 
-Check the live status of the API at [API Link](https://blockchains-status.onrender.com/api/status).
+Check the live status of the API at [API Link](https://blockchain-status.onrender.com/api/status).
 <br>OR<br>
 Check the live status of the API at [API Link](https://blockchain-xokc.onrender.com/api/status).
 
