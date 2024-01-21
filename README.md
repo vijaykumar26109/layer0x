@@ -27,7 +27,9 @@ npm install
 npm start
 
 # API Endpoints
+<br>https://blockchain-xokc.onrender.com/api/<br>
 
+GET /status : status of all blockchains<br>
 GET /blockchains: Get a list of all configured blockchains. <br>
 POST /blockchains: Create a new blockchain. <br>
 PUT /blockchains/:id: Update an existing blockchain. <br>
